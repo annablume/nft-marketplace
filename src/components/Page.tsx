@@ -10,8 +10,8 @@ export function Page({ children }: PageProps) {
   return (
     <div>
       <Head>
-        <title>LooksSea | NFTMarketplace</title>
-        <meta name="description" content="LooksSea - NFTMarketplace" />
+        <title>ClearCO2 | NFTMarketplace</title>
+        <meta name="description" content="ClearCO2 - NFTMarketplace" />
         <link rel="icon" href="/Logo_LooksSea.png" />
       </Head>
       <Navbar />
